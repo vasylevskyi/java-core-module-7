@@ -3,7 +3,7 @@ package ua.goit;
 import java.util.Arrays;
 
 /**
- * Task
+ * Task 4
  **/
 
 public class Phrase {
