@@ -1,5 +1,9 @@
 package ua.goit;
 
+/**
+ * Task 1
+ **/
+
 public class GooQuery {
 
     private final String language;
